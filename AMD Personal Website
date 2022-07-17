@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AMD Personal Website</title>
+    </head>
+    <body>
+        <nav> Nav bar</nav>
+
+        <!--Intro Start-->
+        <section id="intro">
+            <div class="left">
+                <h1><strong>You</strong> R Name</h1>
+                <p>dofhwhowefw .. etc</p>
+                <p>dofhwhowefw .. etc</p>
+                <p>dofhwhowefw .. etc</p>
+                <p>dofhwhowefw .. etc</p>
+            </div>
+            <div class="right">
+                <div class="img">
+                        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"></img>
+                    </div>
+                    <div class="img-desc">
+                        <p>image desc </p>
+                    </div>
+            </div>
+    </section>
+    <!--Intro End-->
+
+    <!--News Start-->
+    <section id="news">
+        <h1>NEWS</h1>
+        <div class="record">
+            <span class="timestamp">01/01/2022</span>
+            <span class="text"> Some details</span>
+        </div>
+        <div class="record">
+            <span class="timestamp">01/01/2022</span>
+            <span class="text"> Some details</span>
+        </div>
+        <div class="record">
+            <span class="timestamp">01/01/2022</span>
+            <span class="text"> Some details</span>
+        </div>
+    </section>
+    <!--News End-->
+    
+    <!--Publications Start-->
+    <section id="publications">
+         <h1>publications</h1>
+    <div class="record">
+        <span class="publications-left">image</span>
+        <span class="publications-right">
+                <div><p>title</p></div>
+                <div>author</div>
+                <div>publications</div>
+                <div>
+                    <span><a href="https://google.com">
+                    ABS</a></span>
+                    <span>HTML</span>
+                    <span>PDF</span>
+                </div>
+            </span>
+        </div>
+    </section>
+    <!--Publications End-->
+
+        <section id="contact">
+            <div><span>img1</span><span>img2</span></div>
+            <div>text</div>
+        </section>
+
+        <section id="footer">
+            <p>&copy;copy right, design by &#10084; AMD</p>
+        </section>
+    </body>
+</html>
+
+
+
+
